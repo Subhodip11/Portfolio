@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9d11acb6.css",
+    "main.js": "/portfolio/static/js/main.95b835eb.js",
+    "static/media/Me.jpg": "/portfolio/static/media/Me.8c23ed1b8aae2ec5d715.jpg",
+    "static/media/covid19_logo.png": "/portfolio/static/media/covid19_logo.e0540048ea390ad64420.png",
+    "static/media/whatsapp.png": "/portfolio/static/media/whatsapp.a696dbd74a78c7e9e5e4.png",
+    "static/media/matplotlib_loho.png": "/portfolio/static/media/matplotlib_loho.1f3cb36363d0eb2c163f.png",
+    "static/media/background1.jpg": "/portfolio/static/media/background1.5f45fb207dd561758c1e.jpg",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.62c07187d5f518bb5859.png",
+    "static/media/html_css_js_logo.png": "/portfolio/static/media/html_css_js_logo.47692505d122dbcae490.png",
+    "static/media/java.jpg": "/portfolio/static/media/java.d5c26670adb0c9e80c0a.jpg",
+    "static/media/python_logo.jpg": "/portfolio/static/media/python_logo.efea5f447cbd46bfaeec.jpg",
+    "static/media/mern_stack_logo.png": "/portfolio/static/media/mern_stack_logo.797f154ce5fcf7edb6fb.png",
+    "static/media/huffman_code_generator_logo.png": "/portfolio/static/media/huffman_code_generator_logo.1060b6dea7ea64af9e84.png",
+    "static/media/ui_ux_designer.png": "/portfolio/static/media/ui_ux_designer.b3771c05c10fb2eab74f.png",
+    "static/media/gmail.png": "/portfolio/static/media/gmail.ebf49471ae39613c0b71.png",
+    "index.html": "/portfolio/index.html",
+    "static/media/github.svg": "/portfolio/static/media/github.255db585f8a0eb28a1e4deb91bde207d.svg",
+    "main.9d11acb6.css.map": "/portfolio/static/css/main.9d11acb6.css.map",
+    "main.95b835eb.js.map": "/portfolio/static/js/main.95b835eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d11acb6.css",
+    "static/js/main.95b835eb.js"
+  ]
+}
